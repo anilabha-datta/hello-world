@@ -1,2 +1,2 @@
-dotnet new console
-dotnet run Program.cs
+    dotnet new console
+    dotnet run Program.cs
